@@ -1,7 +1,11 @@
-# Getting Started with Create React App
+# Travel Advisor Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- The travel advisor application helps users to find out the nearby restaurants, hotels and best places to visit along with the weather conditions of the places
+- APIs consumed: Weather API, Rapid API's Places List, Google Maps API, Google GeoLocator API
+- Clone the repository and run the application to learn more about the application
 
+
+## React Stuffs
 ## Available Scripts
 
 In the project directory, you can run:
